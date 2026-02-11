@@ -3,7 +3,7 @@ report 50210 "Direct Voucher Report"
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
     DefaultLayout = RDLC;
-    RDLCLayout = 'DirectVoucherReport.rdl';
+    RDLCLayout = 'src/Reports/DirectVoucherReport.rdl';
 
     dataset
     {
